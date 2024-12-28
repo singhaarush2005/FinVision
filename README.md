@@ -1,6 +1,6 @@
 # FinVision
 
- Found it very tough to do web scraping since it was my first time.Could not figure for the life of me how to scrape nse,managed to scrape a bit of screener but could not figure out how to get the columns required.
+
 
 
  Task 1 link :https://colab.research.google.com/drive/1spPsrEBdeTF9eR6vMiHBwRbXdyREIJPP?usp=sharing
