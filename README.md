@@ -10,3 +10,5 @@
  Bonus Task Link:https://colab.research.google.com/drive/1uZMxmOc5lwdwMH_TZaDawJP5Qigv_x9n?usp=sharing
 
  Vasiceck Model: https://colab.research.google.com/drive/1K8Jv2gKF_4JOxcS3llVj7wxUvZUTQciu?usp=sharing
+
+ Black Scholes and The Greeks: https://colab.research.google.com/drive/1ASJtfZdeHG7M-g2o_35YZTOSgpVSMqHg?usp=sharing
